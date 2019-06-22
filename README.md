@@ -1,4 +1,4 @@
-# prisma-ecommerce
+# prisma-graphql-attributes
 
 This example will ultimately serve as the backoffice for [prisma-ecommerce](https://github.com/Weakky/prisma-ecommerce), another ongoing project.
 
